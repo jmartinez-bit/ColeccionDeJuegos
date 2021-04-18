@@ -13,6 +13,7 @@
 		7D2B53E1262B956300BA3031 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D2B53DF262B956300BA3031 /* ColeccionDeJuegos.xcdatamodeld */; };
 		7D2B53E3262B956500BA3031 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D2B53E2262B956500BA3031 /* Assets.xcassets */; };
 		7D2B53E6262B956500BA3031 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2B53E4262B956500BA3031 /* LaunchScreen.storyboard */; };
+		7D2B53EE262BA31800BA3031 /* JuegoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2B53ED262BA31800BA3031 /* JuegoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D2B53E2262B956500BA3031 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D2B53E5262B956500BA3031 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D2B53E7262B956500BA3031 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2B53ED262BA31800BA3031 /* JuegoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7D2B53E4262B956500BA3031 /* LaunchScreen.storyboard */,
 				7D2B53E7262B956500BA3031 /* Info.plist */,
 				7D2B53DF262B956300BA3031 /* ColeccionDeJuegos.xcdatamodeld */,
+				7D2B53ED262BA31800BA3031 /* JuegoViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D2B53DB262B956300BA3031 /* ViewController.swift in Sources */,
+				7D2B53EE262BA31800BA3031 /* JuegoViewController.swift in Sources */,
 				7D2B53D9262B956300BA3031 /* AppDelegate.swift in Sources */,
 				7D2B53E1262B956300BA3031 /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
